@@ -291,8 +291,6 @@ This project demonstrates:
 
 ---
 
-## 📄 License
-MIT — For educational and research use.
 
 ---
 **Built by an AI/ML Engineer · Demonstrates advanced multi-modal LLM application development**
